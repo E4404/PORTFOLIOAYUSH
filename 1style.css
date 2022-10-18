@@ -1,0 +1,91 @@
+
+body { background-color: rgb(240, 238, 238);
+overflow-x: hidden;
+}
+
+
+
+
+.dp {
+border-radius: 50%;
+margin-top: 54px;
+margin-bottom: 25px;
+}
+
+
+.container-1{
+
+  padding-top: 8px;
+    height: 50px;
+    width: 200px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    box-shadow: 8px 8px rgba(129, 129, 129, 0.116) ;
+   margin-top: 50px;
+    }
+    
+
+.insta-icon{
+        width: 30px;
+        
+    }        
+
+    
+.insta-icon:hover {
+  transform: rotateZ(8deg);
+  }
+
+
+  .linkedin-icon{
+width: 30px;
+  }
+
+
+  .linkedin-icon:hover{
+   transform: rotateZ(8deg);
+  }
+
+  .mail-icon{
+   width: 32px;
+   height: 29px;
+   border-radius: 10%;
+
+  }
+
+
+  .mail-icon:hover{
+    transform: rotateZ(8deg); 
+  }
+
+  .filler {
+
+height: 1000px;
+
+  }
+
+  .intro-con{
+
+    padding-right:0;
+    padding-left:0;
+    padding-top: 100px;
+
+
+  }
+
+
+  .navbar{
+
+position: fixed;
+width: 100%;
+    background-color:#302f2f96;
+    backdrop-filter: blur(4px);
+  }
+
+
+
+  header{
+    z-index: 1;
+    position: relative;
+  }
+
+  
