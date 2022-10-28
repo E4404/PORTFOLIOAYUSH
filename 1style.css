@@ -148,3 +148,31 @@ width: 100%;
 
 
 }
+
+
+.form-input-style{
+
+
+border-top:0px;
+border-left:0px;
+border-right:0px;
+
+background: none;
+
+}
+
+
+.form-textarea-style {
+
+
+background-color: #c7c7c82d;
+
+}
+
+
+.form-submitbtn-style {
+
+background-color: black;
+border-radius: 12%;
+color: white;
+}
