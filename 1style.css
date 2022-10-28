@@ -85,8 +85,7 @@ height: 1000px;
 
 
   .navbar{
-
-/* position: fixed; */
+position: fixed;
 width: 100%;
     background-color:#302f2f96;
     backdrop-filter: blur(4px);
